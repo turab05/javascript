@@ -14,7 +14,7 @@
 // var age=22;
 // age>18?console.log("vote"):console.log("not");
 
-var x=6;
+var x=10;
 var y=3;
 console.log(x>5 && y>1);
 
